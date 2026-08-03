@@ -1,0 +1,25 @@
+{
+  "name": "Control de Calidad · Jarabes",
+  "short_name": "CALIDAD",
+  "description": "Análisis y liberación de lotes de jarabe: verificación de °Brix y volumen contra especificación, dictamen y control de vencimientos",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#F40009",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Nuevo análisis", "short_name": "Análisis", "url": "./index.html?v=planilla",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Especificaciones", "short_name": "Productos", "url": "./index.html?v=productos",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
