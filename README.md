@@ -3,7 +3,7 @@
 App instalable para el analista de Aseguramiento de Calidad: verificación de
 **volumen** y **°Brix** contra especificación, dictamen y control de vencimientos.
 
-*Developed by Marcelo Herrera · Helen Condori · Alfredo Mamani*
+*Developed by Marcelo Herrera*
 
 ---
 
